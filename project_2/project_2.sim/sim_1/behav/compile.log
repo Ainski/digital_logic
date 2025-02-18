@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/model/project_2/project_2.srcs/sources_1/new/test_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module led
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/model/project_2/project_2.srcs/sources_1/new/led_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module led_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/model/project_2/project_2.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

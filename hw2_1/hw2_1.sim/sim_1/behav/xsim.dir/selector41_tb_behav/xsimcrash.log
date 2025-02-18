@@ -1,0 +1,43 @@
+Unable to capture context for thread 42516 in process 34804, can not generate back trace
+Unable to capture context for thread 9652 in process 34804, can not generate back trace
+Unable to capture context for thread 41608 in process 34804, can not generate back trace
+Unable to capture context for thread 42220 in process 34804, can not generate back trace
+Unable to capture context for thread 43572 in process 34804, can not generate back trace
+Exception at PC 0x00007FFD1EE6BB93
+Printing stacktrace...
+
+Unable to capture context for thread 42516 in process 34804, can not generate back trace
+Unable to capture context for thread 9652 in process 34804, can not generate back trace
+Unable to capture context for thread 41608 in process 34804, can not generate back trace
+Exception at PC 0x00007FFE9A15FABC
+Exception at PC 0x00007FFE9A15FABC
+Exception at PC 0x00007FFE9A15FABC
+Exception at PC 0x00007FFE9A15FABC
+[0]  [0x00007FFD1EE6BB93]
+[1]  [0x00007FFD1EE6BB93]
+[2]  [0x00007FFD1EE6B4A1]
+[3]  [0x00007FFD1EE6B459]
+[4]  [0x00007FFD1EE519FE]
+[5]  [0x00007FFD1EE50ED1]
+[6]  [0x00007FFD1EE50D76]
+[7]  [0x00007FFD1EDF79F6]
+[8]  [0x00007FFD1EDE7AFB]
+[9]  [0x00007FFD1EF0E90A]
+[10]  [0x00007FFD1EF29F87]
+[11]  [0x00007FFD1EF2A05F]
+[12] (BaseThreadInitThunk+0x1d) [0x00007FFE9B9C257D]
+[13] (RtlUserThreadStart+0x28) [0x00007FFE9CC6AF28]
+Done
+Exception at PC 0x00007FFE9A15FABC
+Exception at PC 0x00007FFE9A15FABC
+Exception at PC 0x00007FFE9A15FABC
+Exception at PC 0x00007FFE9A15FABC
+Exception at PC 0x00007FFE9A15FABC
+Exception at PC 0x00007FFE9A15FABC
+Exception at PC 0x00007FFE9A15FABC
+Exception at PC 0x00007FFE9A15FABC
+Exception at PC 0x00007FFE9A15FABC
+Exception at PC 0x00007FFE9A15FABC
+Exception at PC 0x00007FFE9A15FABC
+Exception at PC 0x00007FFE9A15FABC
+Exception at PC 0x00007FFE9A15FABC

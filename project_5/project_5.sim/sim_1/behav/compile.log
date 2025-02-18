@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/model/project_5/project_5.srcs/sources_1/new/encoder_83_Pri.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module encoder83_Pri
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/model/project_5/project_5.srcs/sim_1/new/encoder83_Pri_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module encoder83_Pri_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/model/project_5/project_5.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

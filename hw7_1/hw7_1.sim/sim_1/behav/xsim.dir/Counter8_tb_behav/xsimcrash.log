@@ -1,0 +1,43 @@
+Unable to capture context for thread 37772 in process 24496, can not generate back trace
+Unable to capture context for thread 42608 in process 24496, can not generate back trace
+Unable to capture context for thread 42728 in process 24496, can not generate back trace
+Unable to capture context for thread 42184 in process 24496, can not generate back trace
+Unable to capture context for thread 40792 in process 24496, can not generate back trace
+Exception at PC 0x00007FFD9124BB93
+Printing stacktrace...
+
+Unable to capture context for thread 37772 in process 24496, can not generate back trace
+Unable to capture context for thread 42608 in process 24496, can not generate back trace
+Unable to capture context for thread 42728 in process 24496, can not generate back trace
+Exception at PC 0x00007FFEE0D9FE4C
+Exception at PC 0x00007FFEE0D9FE4C
+Exception at PC 0x00007FFEE0D9FE4C
+Exception at PC 0x00007FFEE0D9FE4C
+[0]  [0x00007FFD9124BB93]
+[1]  [0x00007FFD9124BB93]
+[2]  [0x00007FFD9124B4A1]
+[3]  [0x00007FFD9124B459]
+[4]  [0x00007FFD912319FE]
+[5]  [0x00007FFD91230ED1]
+[6]  [0x00007FFD91230D76]
+[7]  [0x00007FFD911D79F6]
+[8]  [0x00007FFD911C7AFB]
+[9]  [0x00007FFD912EE90A]
+[10]  [0x00007FFD91309F87]
+[11]  [0x00007FFD9130A05F]
+[12] (BaseThreadInitThunk+0x1d) [0x00007FFEE2A2257D]
+[13] (RtlUserThreadStart+0x28) [0x00007FFEE39EAF08]
+Done
+Exception at PC 0x00007FFEE0D9FE4C
+Exception at PC 0x00007FFEE0D9FE4C
+Exception at PC 0x00007FFEE0D9FE4C
+Exception at PC 0x00007FFEE0D9FE4C
+Exception at PC 0x00007FFEE0D9FE4C
+Exception at PC 0x00007FFEE0D9FE4C
+Exception at PC 0x00007FFEE0D9FE4C
+Exception at PC 0x00007FFEE0D9FE4C
+Exception at PC 0x00007FFEE0D9FE4C
+Exception at PC 0x00007FFEE0D9FE4C
+Exception at PC 0x00007FFEE0D9FE4C
+Exception at PC 0x00007FFEE0D9FE4C
+Exception at PC 0x00007FFEE0D9FE4C

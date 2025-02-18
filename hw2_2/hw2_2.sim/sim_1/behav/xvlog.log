@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/model/hw2_2/hw2_2.srcs/sources_1/new/de_selector14.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module de_selector14
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/model/hw2_2/hw2_2.srcs/sim_1/new/de_selector14_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module de_selector14_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/model/hw2_2/hw2_2.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

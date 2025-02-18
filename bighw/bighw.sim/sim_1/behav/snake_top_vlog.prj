@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../bighw.srcs/sources_1/new/word1.v"
+verilog xil_defaultlib  "../../../bighw.srcs/sources_1/new/snake.v"
+verilog xil_defaultlib  "../../../bighw.srcs/sources_1/new/scoring.v"
+verilog xil_defaultlib  "../../../bighw.srcs/sources_1/new/word.v"
+verilog xil_defaultlib  "../../../bighw.srcs/sources_1/new/vga.v"
+verilog xil_defaultlib  "../../../bighw.srcs/sources_1/new/keyin.v"
+verilog xil_defaultlib  "../../../bighw.srcs/sources_1/new/clkdiv.v"
+verilog xil_defaultlib  "../../../bighw.srcs/sources_1/new/keyboard.v"
+verilog xil_defaultlib  "../../../bighw.srcs/sources_1/new/snake_top.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

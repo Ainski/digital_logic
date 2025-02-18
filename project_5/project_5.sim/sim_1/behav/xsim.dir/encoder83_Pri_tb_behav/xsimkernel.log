@@ -1,0 +1,4 @@
+Running: xsim.dir/encoder83_Pri_tb_behav/xsimk.exe -simmode gui -wdb encoder83_Pri_tb_behav.wdb -simrunnum 0 -socket 50572
+Design successfully loaded
+Design Loading Memory Usage: 10948 KB (Peak: 10948 KB)
+Design Loading CPU Usage: 15 ms
